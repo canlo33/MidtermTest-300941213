@@ -83,6 +83,8 @@ class ViewController: UIViewController {
     
     @IBAction func CancelButton(_ sender: UIButton) {
     
+        // Resetting everyfield
+        
         label1.text = "1"
         label2.text = "1"
         label3.text = "1"
